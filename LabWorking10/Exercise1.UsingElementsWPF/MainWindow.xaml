@@ -1,0 +1,21 @@
+﻿<Window x:Class="UsingElementsWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:my="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:local="clr-namespace:UsingElementsWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="184.667" Width="438.5">
+    <Grid>
+        <Button Height="23" Margin="21,68,30,0" Name="Button1" VerticalAlignment="Top" Click="Button1_Click">Add to collection</Button>
+        <Button Margin="21,0,30,118" Name="Button2" Height="22" VerticalAlignment="Bottom" Click="Button2_Click">Save collection to file</Button>
+        
+        <WindowsFormsHost Height="19" HorizontalAlignment="Left" Margin="21,115,0,0" Name="windowsFormsHost1" VerticalAlignment="Top" Width="129" >
+            <wf:MaskedTextBox Name="MaskedTextBox1" Mask="(000)-000-0000"/>
+        </WindowsFormsHost>
+
+
+    </Grid>
+</Window>
