@@ -15,29 +15,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking05", "LabWorking0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking06", "LabWorking06", "{6C80AE0B-94AF-4170-9462-51AD7B533177}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3.NavigationWindow", "LabWorking1\Exercise3.NavigationWindow\Exercise3.NavigationWindow.csproj", "{C6799426-5D6A-406A-AF8E-7B78254774B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3.NavigationWindow", "LabWorking01\Exercise3.NavigationWindow\Exercise3.NavigationWindow.csproj", "{C6799426-5D6A-406A-AF8E-7B78254774B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.DockPanel", "LabWorking2\Exercise1.DockPanel\Exercise1.DockPanel.csproj", "{78B1012B-A152-4EE5-B6C9-8EF1D210C034}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.DockPanel", "LabWorking02\Exercise1.DockPanel\Exercise1.DockPanel.csproj", "{78B1012B-A152-4EE5-B6C9-8EF1D210C034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.InterfaceСustomization", "LabWorking2\Exercise2.InterfaceСustomization\Exercise2.InterfaceСustomization.csproj", "{B7723D3D-AAA9-4961-897B-926A078CFA03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.InterfaceСustomization", "LabWorking02\Exercise2.InterfaceСustomization\Exercise2.InterfaceСustomization.csproj", "{B7723D3D-AAA9-4961-897B-926A078CFA03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.RoutedEvent", "LabWorking3\Exercise1.RoutedEvent\Exercise1.RoutedEvent.csproj", "{EF94D568-32C6-497D-8125-3EB0E471B12A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.RoutedEvent", "LabWorking03\Exercise1.RoutedEvent\Exercise1.RoutedEvent.csproj", "{EF94D568-32C6-497D-8125-3EB0E471B12A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.RoutedEvent2", "LabWorking3\Exercise2.RoutedEvent2\Exercise2.RoutedEvent2.csproj", "{6B8C78AB-5D89-4BEE-9231-6EA32EAB40BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.RoutedEvent2", "LabWorking03\Exercise2.RoutedEvent2\Exercise2.RoutedEvent2.csproj", "{6B8C78AB-5D89-4BEE-9231-6EA32EAB40BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3.RoutedEvent3", "LabWorking3\Exercise3.RoutedEvent3\Exercise3.RoutedEvent3.csproj", "{B1E85C6C-623B-461B-B11A-BFDCB8B6A863}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3.RoutedEvent3", "LabWorking03\Exercise3.RoutedEvent3\Exercise3.RoutedEvent3.csproj", "{B1E85C6C-623B-461B-B11A-BFDCB8B6A863}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.ApplicationCommands", "LabWorking4\Exercise1.ApplicationCommands\Exercise1.ApplicationCommands.csproj", "{0FB4BD0C-32CE-48FF-8D9E-EB45081D19EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.ApplicationCommands", "LabWorking04\Exercise1.ApplicationCommands\Exercise1.ApplicationCommands.csproj", "{0FB4BD0C-32CE-48FF-8D9E-EB45081D19EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.RoutedUICommand", "LabWorking4\Exercise2.RoutedUICommand\Exercise2.RoutedUICommand.csproj", "{FA75F5B4-E097-490E-8E43-FFC52B5540A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.RoutedUICommand", "LabWorking04\Exercise2.RoutedUICommand\Exercise2.RoutedUICommand.csproj", "{FA75F5B4-E097-490E-8E43-FFC52B5540A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Style", "LabWorking5\Exercise1.Style\Exercise1.Style.csproj", "{E37D28D8-D7D5-4752-9037-CC73480E9DD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Style", "LabWorking05\Exercise1.Style\Exercise1.Style.csproj", "{E37D28D8-D7D5-4752-9037-CC73480E9DD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.ControlTemplate", "LabWorking5\Exercise2.ControlTemplate\Exercise2.ControlTemplate.csproj", "{F02AE086-31DD-4ED3-BEBA-A1D152977FFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.ControlTemplate", "LabWorking05\Exercise2.ControlTemplate\Exercise2.ControlTemplate.csproj", "{F02AE086-31DD-4ED3-BEBA-A1D152977FFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Trigger", "LabWorking6\Exercise1.Trigger\Exercise1.Trigger.csproj", "{51D4BB7E-C21D-456A-AEBD-8C26DD62418F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Trigger", "LabWorking06\Exercise1.Trigger\Exercise1.Trigger.csproj", "{51D4BB7E-C21D-456A-AEBD-8C26DD62418F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.Animation", "LabWorking6\Exercise2.Animation\Exercise2.Animation.csproj", "{0AF7F870-2DE4-466C-9EC1-20B57B8BAF33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.Animation", "LabWorking06\Exercise2.Animation\Exercise2.Animation.csproj", "{0AF7F870-2DE4-466C-9EC1-20B57B8BAF33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking07", "LabWorking07", "{38454909-B640-4C53-AD28-348E17926CD5}"
 EndProject
@@ -47,15 +47,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking11", "LabWorking1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking12", "LabWorking12", "{73972DF7-4D40-470E-9702-D28436665DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Themes", "LabWorking7\Exercise1.Themes\Exercise1.Themes.csproj", "{A3712ED9-A387-4774-BF4F-6A10D4BE901B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Themes", "LabWorking07\Exercise1.Themes\Exercise1.Themes.csproj", "{A3712ED9-A387-4774-BF4F-6A10D4BE901B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking08", "LabWorking08", "{84593A60-96B1-48B0-9CE9-4FEAD572CF90}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking09", "LabWorking09", "{5B24A528-BEF5-4A24-A885-3559FBE2AFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.DataBinding", "LabWorking8\Exercise1.DataBinding\Exercise1.DataBinding.csproj", "{AB3A1729-8E2F-4948-9DD4-FEDD57EF0696}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.DataBinding", "LabWorking08\Exercise1.DataBinding.csproj", "{AB3A1729-8E2F-4948-9DD4-FEDD57EF0696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.BackgroundWorker", "LabWorking9\Exercise1.BackgroundWorker\Exercise1.BackgroundWorker.csproj", "{95ADCBD7-9965-498B-A251-0ABD8D244887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.BackgroundWorker", "LabWorking09\Exercise1.BackgroundWorker.csproj", "{95ADCBD7-9965-498B-A251-0ABD8D244887}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.UsingElementsWPF", "LabWorking10\Exercise1.UsingElementsWPF\Exercise1.UsingElementsWPF.csproj", "{142ECEC0-AC95-426B-B5AF-3AE977B2EEA9}"
 EndProject
@@ -69,13 +69,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory1", "Laboratory1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3.Toolkit", "LabWorking11\Exercise3.Toolkit\Exercise3.Toolkit.csproj", "{FB14B6C1-9EED-492E-926E-623F556F4EC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WorkingWithParameters", "LabWorking12\Exercise1.WorkingWithParameters\Exercise1.WorkingWithParameters.csproj", "{D1CF6340-082A-459A-8DA7-92B925F73F31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WorkingWithParameters", "LabWorking12\Exercise1.WorkingWithParameters.csproj", "{D1CF6340-082A-459A-8DA7-92B925F73F31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WpfHello", "LabWorking1\Exercise1.WpfHello\Exercise1.WpfHello.csproj", "{93300FF6-AC31-4B26-A3CA-37BE838AB0A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WpfHello", "LabWorking01\Exercise1.WpfHello\Exercise1.WpfHello.csproj", "{93300FF6-AC31-4B26-A3CA-37BE838AB0A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.WorkingWithWindows", "LabWorking1\Exercise2.WorkingWithWindows\Exercise2.WorkingWithWindows.csproj", "{FCFE5ED6-16C7-4697-B0C8-46AAA0F39DD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.WorkingWithWindows", "LabWorking01\Exercise2.WorkingWithWindows\Exercise2.WorkingWithWindows.csproj", "{FCFE5ED6-16C7-4697-B0C8-46AAA0F39DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.ResourceDictionary", "LabWorking7\Exercise2.ResourceDictionary\Exercise2.ResourceDictionary.csproj", "{992B649E-1BC1-4037-8639-F26E3A6C2D15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.ResourceDictionary", "LabWorking07\Exercise2.ResourceDictionary\Exercise2.ResourceDictionary.csproj", "{992B649E-1BC1-4037-8639-F26E3A6C2D15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
